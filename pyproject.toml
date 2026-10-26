@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "leo-desktop"
+version = "0.19.1"
+description = "Compañero local para GNOME Wayland"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+leo = "leo.ui:main"
+leo-daemon = "leo.daemon:main"
+leoctl = "leo.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["leo*"]
+
+[tool.setuptools.package-data]
+"leo.usage" = ["LICENSE.md"]

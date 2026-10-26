@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<!-- Tercer ojo de Leo mientras observa: el mismo ojo que los suyos (almendra oscura, iris marrón, pupila y brillo
+     crema; formas y colores de scripts/avatar_svg.py), en vertical, entre pliegues de piel de Shar-Pei. -->
+<g fill="none" stroke-linecap="round">
+<path d="M21 14q-7 18 0 36M43 14q7 18 0 36" stroke="#482a19" stroke-width="6.5" opacity=".1"/>
+<path d="M21 14q-7 18 0 36M43 14q7 18 0 36" stroke="#aa7144" stroke-width="3.2" opacity=".75"/>
+<path d="M18.6 17q-5 15 0 30M45.4 17q5 15 0 30" stroke="#f0c58d" stroke-width="1.6" opacity=".7"/>
+</g>
+<g transform="translate(32 32) rotate(90) scale(1.1) translate(-15.5 -.5)">
+<path d="M0 0q15-13 31 1-17 13-31-1" fill="#382c24"/>
+<ellipse cx="15.5" cy=".5" rx="5" ry="6" fill="#6b4e30"/>
+<circle cx="16" cy="0" r="3.5" fill="#211e1a"/>
+</g>
+<circle cx="33.9" cy="30.7" r="1.6" fill="#fff0ce"/>
+</svg>

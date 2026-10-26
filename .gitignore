@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.env
+.env.*
+avatar/
+assets/leo/generated/
+assets/leo/traits.json
+assets/leo/source-manifest.json
+assets/leo/*preview*
+assets/leo/portrait.png
+*.sqlite*
+*.db

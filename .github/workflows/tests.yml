@@ -1,0 +1,15 @@
+name: Tests
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  unit:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Install system test dependencies
+        run: sudo apt-get update && sudo apt-get install -y python3-gi gir1.2-gtk-4.0 python3-pil python3-numpy python3-opencv nodejs
+      - name: Python unit tests (no user extension activation)
+        run: /usr/bin/python3 -m unittest discover -s tests -v
+      - name: Movement logic
+        run: node tests/movement.mjs

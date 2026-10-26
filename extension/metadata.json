@@ -1,0 +1,8 @@
+{
+  "uuid": "leo@local.desktop",
+  "name": "LEO · compañero local",
+  "description": "Leo, tu Shar-Pei como compañero de escritorio: avatar animado y conversación en un globo, al estilo Clippy.",
+  "shell-version": ["50"],
+  "version": 17,
+  "session-modes": ["user"]
+}

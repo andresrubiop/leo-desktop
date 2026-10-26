@@ -1,0 +1,266 @@
+{
+ "sit": {
+  "x": 154.95,
+  "y": 100.88,
+  "angle": 0.0,
+  "profile": false
+ },
+ "sleep": {
+  "x": 151.2,
+  "y": 170.04,
+  "angle": 0.0,
+  "profile": false
+ },
+ "alert": {
+  "x": 154.95,
+  "y": 100.88,
+  "angle": 0.0,
+  "profile": false
+ },
+ "blink": {
+  "x": 154.95,
+  "y": 100.88,
+  "angle": 0.0,
+  "profile": false
+ },
+ "happy": {
+  "x": 154.95,
+  "y": 100.88,
+  "angle": 0.0,
+  "profile": false
+ },
+ "curious-left": {
+  "x": 137.53,
+  "y": 100.41,
+  "angle": -9.0,
+  "profile": false
+ },
+ "curious-right": {
+  "x": 172.5,
+  "y": 98.83,
+  "angle": 9.0,
+  "profile": false
+ },
+ "watching": {
+  "x": 147.17,
+  "y": 98.86,
+  "angle": -4.0,
+  "profile": false
+ },
+ "point-left": {
+  "x": 151.39,
+  "y": 98.46,
+  "angle": -7.0,
+  "profile": false
+ },
+ "point-right": {
+  "x": 168.61,
+  "y": 98.46,
+  "angle": 7.0,
+  "profile": false
+ },
+ "celebrate": {
+  "x": 148.92,
+  "y": 95.14,
+  "angle": -3.0,
+  "profile": false
+ },
+ "reading": {
+  "x": 154.95,
+  "y": 105.28,
+  "angle": 0.0,
+  "profile": false
+ },
+ "pet-0": {
+  "x": 154.95,
+  "y": 100.88,
+  "angle": 0.0,
+  "profile": false
+ },
+ "pet-1": {
+  "x": 159.66,
+  "y": 100.76,
+  "angle": 2.47,
+  "profile": false
+ },
+ "pet-2": {
+  "x": 161.62,
+  "y": 100.78,
+  "angle": 3.5,
+  "profile": false
+ },
+ "pet-3": {
+  "x": 159.66,
+  "y": 100.76,
+  "angle": 2.47,
+  "profile": false
+ },
+ "pet-4": {
+  "x": 154.95,
+  "y": 100.88,
+  "angle": 0.0,
+  "profile": false
+ },
+ "pet-5": {
+  "x": 150.25,
+  "y": 101.2,
+  "angle": -2.47,
+  "profile": false
+ },
+ "pet-6": {
+  "x": 148.3,
+  "y": 101.39,
+  "angle": -3.5,
+  "profile": false
+ },
+ "pet-7": {
+  "x": 150.25,
+  "y": 101.2,
+  "angle": -2.47,
+  "profile": false
+ },
+ "walk-0": {
+  "x": 263.12,
+  "y": 115.14,
+  "angle": -18.18,
+  "profile": true
+ },
+ "walk-1": {
+  "x": 263.79,
+  "y": 115.41,
+  "angle": -17.58,
+  "profile": true
+ },
+ "walk-2": {
+  "x": 263.98,
+  "y": 114.76,
+  "angle": -17.41,
+  "profile": true
+ },
+ "walk-3": {
+  "x": 263.64,
+  "y": 113.37,
+  "angle": -17.71,
+  "profile": true
+ },
+ "walk-4": {
+  "x": 262.85,
+  "y": 111.61,
+  "angle": -18.42,
+  "profile": true
+ },
+ "walk-5": {
+  "x": 261.81,
+  "y": 109.96,
+  "angle": -19.34,
+  "profile": true
+ },
+ "walk-6": {
+  "x": 260.8,
+  "y": 108.89,
+  "angle": -20.22,
+  "profile": true
+ },
+ "walk-7": {
+  "x": 260.11,
+  "y": 108.65,
+  "angle": -20.82,
+  "profile": true
+ },
+ "walk-8": {
+  "x": 259.91,
+  "y": 109.31,
+  "angle": -20.99,
+  "profile": true
+ },
+ "walk-9": {
+  "x": 260.26,
+  "y": 110.67,
+  "angle": -20.69,
+  "profile": true
+ },
+ "walk-10": {
+  "x": 261.08,
+  "y": 112.4,
+  "angle": -19.98,
+  "profile": true
+ },
+ "walk-11": {
+  "x": 262.13,
+  "y": 114.04,
+  "angle": -19.06,
+  "profile": true
+ },
+ "walk-12": {
+  "x": 263.12,
+  "y": 115.14,
+  "angle": -18.18,
+  "profile": true
+ },
+ "walk-13": {
+  "x": 263.79,
+  "y": 115.41,
+  "angle": -17.58,
+  "profile": true
+ },
+ "walk-14": {
+  "x": 263.98,
+  "y": 114.76,
+  "angle": -17.41,
+  "profile": true
+ },
+ "walk-15": {
+  "x": 263.64,
+  "y": 113.37,
+  "angle": -17.71,
+  "profile": true
+ },
+ "walk-16": {
+  "x": 262.85,
+  "y": 111.61,
+  "angle": -18.42,
+  "profile": true
+ },
+ "walk-17": {
+  "x": 261.81,
+  "y": 109.96,
+  "angle": -19.34,
+  "profile": true
+ },
+ "walk-18": {
+  "x": 260.8,
+  "y": 108.89,
+  "angle": -20.22,
+  "profile": true
+ },
+ "walk-19": {
+  "x": 260.11,
+  "y": 108.65,
+  "angle": -20.82,
+  "profile": true
+ },
+ "walk-20": {
+  "x": 259.91,
+  "y": 109.31,
+  "angle": -20.99,
+  "profile": true
+ },
+ "walk-21": {
+  "x": 260.26,
+  "y": 110.67,
+  "angle": -20.69,
+  "profile": true
+ },
+ "walk-22": {
+  "x": 261.08,
+  "y": 112.4,
+  "angle": -19.98,
+  "profile": true
+ },
+ "walk-23": {
+  "x": 262.13,
+  "y": 114.04,
+  "angle": -19.06,
+  "profile": true
+ }
+}

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<!-- Mascotita propia (no es el logotipo oficial): una terminal con cara y gorro de cocinero. -->
+<defs>
+<linearGradient id="case" x2="0" y2="1"><stop stop-color="#7b8494"/><stop offset="1" stop-color="#3a4352"/></linearGradient>
+<linearGradient id="hat" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#e6e2da"/></linearGradient>
+</defs>
+<rect x="10.5" y="20.5" width="43" height="37" rx="10.5" fill="none" stroke="#e5e7eb" stroke-width="2" opacity=".55"/>
+<g stroke="#0b0f14" stroke-width="2.6" stroke-linejoin="round">
+<rect x="12" y="22" width="40" height="34" rx="9" fill="url(#case)"/>
+<rect x="17" y="27" width="30" height="22" rx="4.5" fill="#0d1117" stroke-width="1.6"/>
+<path fill="url(#hat)" d="M22 22c-5-1-6.4-7.6-1.8-9.6.6-4.6 6.4-6.4 9.4-3.2 2.4-3.4 8-2.6 9 1.6 4.8-.4 6.6 6 2.6 8.4l-.6 3.6c-5.8 1.6-12.6 1.6-18.6 0z"/>
+</g>
+<path d="M22.4 21.1c6 1.2 12.6 1.2 18.6 0" fill="none" stroke="#c9c2b6" stroke-width="2"/>
+<path d="M21.5 33.5l4.4 3-4.4 3" fill="none" stroke="#4ade80" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M29 40.4h7" stroke="#4ade80" stroke-width="2.6" stroke-linecap="round"/>
+<circle cx="34.6" cy="33" r="2" fill="#e5e7eb"/><circle cx="42" cy="33" r="2" fill="#e5e7eb"/>
+<ellipse cx="19.4" cy="45.6" rx="2.4" ry="1.4" fill="#f472b6" opacity=".55"/><ellipse cx="44.6" cy="45.6" rx="2.4" ry="1.4" fill="#f472b6" opacity=".55"/>
+<rect x="24" y="52.6" width="16" height="3" rx="1.5" fill="#9ca3af"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<!-- Mascotita propia (no es el logotipo oficial): un planeta con anillo y un gorro de cocinero que flota. -->
+<defs>
+<radialGradient id="planet" cx="38%" cy="32%" r="72%"><stop stop-color="#bfe0ff"/><stop offset=".55" stop-color="#5b9cf0"/><stop offset="1" stop-color="#2f62c9"/></radialGradient>
+<linearGradient id="ring" x2="1"><stop stop-color="#ea4335"/><stop offset=".33" stop-color="#fbbc05"/><stop offset=".66" stop-color="#34a853"/><stop offset="1" stop-color="#4285f4"/></linearGradient>
+<linearGradient id="hat" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#e6e2da"/></linearGradient>
+</defs>
+<path d="M8.5 46.5c-3-5 9.8-12.6 24.4-15.8 14.6-3.2 23.4-1.6 23.6 2.6" fill="none" stroke="#0f2552" stroke-width="7.6" stroke-linecap="round"/>
+<path d="M8.5 46.5c-3-5 9.8-12.6 24.4-15.8 14.6-3.2 23.4-1.6 23.6 2.6" fill="none" stroke="url(#ring)" stroke-width="4" stroke-linecap="round"/>
+<circle cx="32" cy="40" r="15.5" fill="url(#planet)" stroke="#0f2552" stroke-width="2.6"/>
+<path d="M56.5 33.3c.6 5.2-12.6 12.4-25.2 15.2-12 2.6-20.8 2-22.8-2" fill="none" stroke="#0f2552" stroke-width="7.6" stroke-linecap="round"/>
+<path d="M56.5 33.3c.6 5.2-12.6 12.4-25.2 15.2-12 2.6-20.8 2-22.8-2" fill="none" stroke="url(#ring)" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="27" cy="38.4" rx="3" ry="3.8" fill="#fff"/><ellipse cx="37" cy="38.4" rx="3" ry="3.8" fill="#fff"/>
+<circle cx="27.7" cy="39.2" r="2" fill="#0f2552"/><circle cx="37.7" cy="39.2" r="2" fill="#0f2552"/>
+<circle cx="28.3" cy="38.4" r=".7" fill="#fff"/><circle cx="38.3" cy="38.4" r=".7" fill="#fff"/>
+<path d="M29.6 44.4q2.4 2 4.8 0" fill="none" stroke="#0f2552" stroke-width="1.8" stroke-linecap="round"/>
+<g stroke="#0b0f14" stroke-width="2.4" stroke-linejoin="round">
+<path fill="url(#hat)" d="M23.8 17.6c-4.4-.9-5.6-6.6-1.6-8.4.5-4 5.6-5.6 8.2-2.8 2.1-3 7-2.3 7.9 1.4 4.2-.3 5.8 5.2 2.3 7.3l-.5 3.1c-5.1 1.4-11 1.4-16.3 0z"/>
+</g>
+<path d="M24.2 16.9c5.2 1 11 1 16.2 0" fill="none" stroke="#c9c2b6" stroke-width="1.8"/>
+<path d="M27 21.6h2m4 0h2m4 0h2" stroke="#8ab4f8" stroke-width="1.6" stroke-linecap="round" opacity=".9"/>
+<path d="M53 13l1 2.4 2.4 1-2.4 1-1 2.4-1-2.4-2.4-1 2.4-1z" fill="#fbbc05"/>
+<path d="M10 16l.7 1.7 1.7.7-1.7.7-.7 1.7-.7-1.7-1.7-.7 1.7-.7z" fill="#8ab4f8"/>
+</svg>

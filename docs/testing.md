@@ -7,7 +7,7 @@ python3 -m unittest discover -s tests -v
 node tests/movement.mjs
 ```
 
-Some tests use system PyGObject/GTK4. On Ubuntu, install `python3-gi`, `gir1.2-gtk-4.0` and `python3-pil`. The optional photo-analysis test requires NumPy and OpenCV and uses synthetic images. CI installs those dependencies too.
+Some tests use system PyGObject/GTK4. On Ubuntu, install `python3-gi`, `gir1.2-gtk-4.0` and `python3-pil`. The optional photo-analysis test requires NumPy and OpenCV and uses synthetic images; it is skipped when those extras are absent. CI provides a disposable Xvfb display and D-Bus session for GTK tests.
 
 Installation tests redirect XDG directories into temporary storage. They do not enable an extension in the user's session.
 

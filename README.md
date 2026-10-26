@@ -42,7 +42,7 @@ bash scripts/run.sh ctl models
 bash scripts/run.sh ctl chat 'Hello, Leo'
 ```
 
-The interface currently uses Spanish. Optional features need their own dependencies: `espeak-ng` for speech output, whisper.cpp for dictation, and a separately configured Cerveau installation for indexed document search. Core conversation and the avatar do not require Cerveau. Its paths can be configured with `LEO_CERVEAU_CLI` and `CERVEAU_HOME`.
+The interface currently uses Spanish. Optional features need their own dependencies: `espeak-ng` for speech output, whisper.cpp for dictation, `poppler-utils` and `python3-cairo` for PDF/figure handling, and a separately configured Cerveau installation for indexed document search. Core conversation and the avatar do not require Cerveau. Its paths can be configured with `LEO_CERVEAU_CLI` and `CERVEAU_HOME`.
 
 ## Architecture
 
